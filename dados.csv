@@ -1,0 +1,40 @@
+tipo,nome,valor,unidade,horario
+modulo,suporte_vida,1,bool,--
+modulo,energia,1,bool,--
+modulo,comunicacao,0,bool,--
+modulo,habitat,1,bool,--
+modulo,laboratorio,1,bool,--
+modulo,armazenamento,1,bool,--
+energia,geracao,25,kWh,06:00
+energia,geracao,40,kWh,09:00
+energia,geracao,55,kWh,12:00
+energia,geracao,48,kWh,15:00
+energia,geracao,30,kWh,18:00
+energia,geracao,10,kWh,21:00
+energia,consumo,60,kWh,06:00
+energia,consumo,72,kWh,09:00
+energia,consumo,78,kWh,12:00
+energia,consumo,80,kWh,15:00
+energia,consumo,75,kWh,18:00
+energia,consumo,65,kWh,21:00
+energia,reserva,60,percent,06:00
+energia,reserva,50,percent,09:00
+energia,reserva,40,percent,12:00
+energia,reserva,32,percent,15:00
+energia,reserva,28,percent,18:00
+energia,reserva,22,percent,21:00
+ambiental,temperatura_interna,21.5,celsius,--
+ambiental,temperatura_externa,-180.0,celsius,--
+ambiental,radiacao,alta,nivel,--
+ambiental,qualidade_comunicacao,35,percent,--
+ambiental,pressao_interna,101.3,kPa,--
+log,evento,Inicializacao do sistema,texto,00:00
+log,evento,Modulo de comunicacao reinicializado,texto,02:15
+log,evento,ALERTA: Comunicacao degradada abaixo de 40%,texto,03:40
+log,evento,Falha de sensor no modulo laboratorio (leitura inconsistente),texto,05:10
+log,evento,Geracao solar abaixo do esperado,texto,07:30
+log,evento,CRITICO: Reserva de energia em queda continua,texto,10:00
+log,evento,Mudanca de prioridade: habitat em modo de economia,texto,13:20
+log,evento,Reinicializacao parcial do modulo de comunicacao,texto,16:45
+inconsistencia,laboratorio_status,1,bool,--
+inconsistencia,laboratorio_sensor,FALHA,texto,--
