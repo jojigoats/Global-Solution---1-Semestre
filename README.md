@@ -9,11 +9,7 @@
 
 | Nome | RM |
 |------|----|
-| [Nome do integrante 1] | XXXXXX |
-| [Nome do integrante 2] | XXXXXX |
-| [Nome do integrante 3] | XXXXXX |
-| [Nome do integrante 4] | XXXXXX |
-| [Nome do integrante 5] | XXXXXX |
+| Julio Oliveira Joaquim | 569113 |
 
 ---
 
