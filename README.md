@@ -146,7 +146,7 @@ STATUS GLOBAL DA MISSÃO: ⚠  CRÍTICO
 
 ## 🎥 Vídeo de Apresentação
 
-[Link do vídeo no YouTube — Não Listado]([https://youtube.com/...](https://youtu.be/NQQfvADvPmY))
+[Link do vídeo no YouTube — Não Listado](https://youtu.be/NQQfvADvPmY)
 
 ---
 
